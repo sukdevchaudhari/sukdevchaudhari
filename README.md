@@ -50,7 +50,7 @@
 
 **Tech Stack:** Java (Jakarta Servlet & JSP), JDBC, MySQL, HTML, CSS, JavaScript
 
-StudySphere is a web-based platform that enables students to create, discover, and join study sessions. The application supports both physical and virtual study sessions while providing secure authentication, participant management, session reporting, and an administrator dashboard for efficient platform management.
+A web-based platform that enables college and university students to create, discover, and join study sessions. The system supports physical and virtual study sessions while providing secure authentication, participant management, and an administrator dashboard.
 
 **Key Features**
 
@@ -69,15 +69,24 @@ https://github.com/sukdevchaudhari/StudySphere
 
 ## ⚔️ Military Management System
 
-**Tech Stack:** Jakarta Servlet, JSP, JDBC, MySQL
+**Tech Stack:** Java (Jakarta Servlet & JSP), JDBC, MySQL, HTML, CSS, JavaScript
 
-A role-based Java web application developed for managing military personnel, missions, and equipment. The system provides secure authentication, CRUD operations, mission assignment, equipment allocation, and search functionality.
+A role-based web application developed for managing military personnel, missions, and equipment. The system provides secure authentication, CRUD operations, mission assignment, equipment allocation, and powerful search functionality.
+
+**Key Features**
+
+- Role-Based Authentication
+- Soldier Management (CRUD)
+- Mission Management
+- Equipment Allocation
+- Search & Filter Soldiers
+- Session Management
+- Admin Dashboard
 
 🔗 **Repository:**  
 https://github.com/sukdevchaudhari/Military_Management_System
 
 ---
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukdev-chaudhari-b53725426)
