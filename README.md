@@ -7,7 +7,6 @@
 ### 🚀 About Me
 - 🎓 I'm currently studying Information Technology at Dharmsinh Desai University
 - 🌱 I'm currently learning FSD(SPRINGBOOT,REACT,HIBERNATE)
-- 📫 How to reach me: sukdevchaudhari624@gmail.com
 - 🔍 I'm currently open to **internships** in  Web Development
 
 ---
