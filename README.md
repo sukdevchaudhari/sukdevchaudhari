@@ -78,14 +78,6 @@ https://github.com/sukdevchaudhari/Military_Management_System
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukdevchaudhari&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukdevchaudhari&layout=compact&theme=tokyonight)
-
----
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukdev-chaudhari-b53725426)
