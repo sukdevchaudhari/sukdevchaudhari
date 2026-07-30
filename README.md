@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30545959/README.md)
+
 <h1 align="center">Hi 👋, I'm SUKDEV CHAUDHARI</h1>
 <h3 align="center">A passionate IT student building my way into tech</h3>
 
