@@ -31,8 +31,7 @@
 ### 📌 Featured Projects
 
 #### 🔹 Military Management System(https://github.com/sukdevchaudhari/Military_Management_System)
-Short one-line description of what it does and what you used to build it.
-
+The AJT Military Management System successfully demonstrates a secure role-based web application for managing military operations. It simplifies personnel management, mission assignment, and equipment allocation while providing a structured and user-friendly interface. The project showcases practical knowledge of Java web development, database integration, authentication, and CRUD operations, making it suitable as an academic full-stack project.
 
 
 ---
